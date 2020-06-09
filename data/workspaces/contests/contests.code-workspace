@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "path": "abc169_a_rust"
+        },
+        {
+            "path": "abc169_a_java"
+        },
+        {
+            "path": "abc169_a_python"
+        },
+        {
+            "path": "abc169_a_cpp"
+        }
+    ],
+    "settings": {
+        "C_Cpp.clang_format_fallbackStyle": "Google",
+        "editor.formatOnSave": true,
+    }
+}
