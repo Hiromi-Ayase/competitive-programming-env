@@ -50,7 +50,7 @@ g++ main.cpp && oj t
 (ABC169)[https://atcoder.jp/contests/abc169/tasks/abc169_a] のコードがサンプルとして abc196_a_java にあります。まず、Ctrl+Shift+@ により abc196_a_java でターミナルを開きます。
 
 
-ターミナルが開いたら Online Judge Tools でテスケースをダウンロードします。
+ターミナルが開いたら Online Judge Tools でテストケースをダウンロードします。
 ```bash
 oj d https://atcoder.jp/contests/abc169/tasks/abc169_a
 ```
