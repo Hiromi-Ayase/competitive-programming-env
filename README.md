@@ -33,7 +33,7 @@ docker run -d -p 8080:8080 hiromiayase/competitive-programming-env:0.1.0
 ![Screenshot](./doc/assets/screenshot_cpp.png)
 
 
-ターミナルが開いたら Online Judge Tools でテスケースをダウンロードします。
+ターミナルが開いたら Online Judge Tools でテストケースをダウンロードします。
 ```bash
 oj d https://atcoder.jp/contests/abc169/tasks/abc169_a
 ```
